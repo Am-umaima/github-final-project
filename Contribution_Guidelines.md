@@ -1,3 +1,6 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+
 # Contributing to Simple Interest Calculator
 
 Thank you for considering contributing to the Simple Interest Calculator project! We welcome contributions from everyone, whether it's reporting issues, suggesting improvements, or submitting pull requests.
